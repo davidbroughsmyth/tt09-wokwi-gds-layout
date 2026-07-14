@@ -8,6 +8,8 @@ Wokwi: https://wokwi.com/projects/414442130679242753
 
 Tiny Tapeout is an educational project that aims to make it easier and cheaper than ever to get your digital and analog designs manufactured on a real chip.
 
+touch:w1
+
 To learn more and get started, visit https://tinytapeout.com.
 
 ## Wokwi Projects
